@@ -1,0 +1,17 @@
+group,label,submodule,cfg,steps,layers,gens,prompts,note,source,regime_str
+Diffusion archive (passive guider v1),Z-Image Turbo,attn+MLP,1.0,8,30,480,120,text rows in X,counts: cube F_ZIT_attn.pkl; regime/CFG: ledger archive table + capture-instrument audit,0.000-1.000:cond-only
+Diffusion archive (passive guider v1),Z-Image Base,attn+MLP,4.0,25,30,476,117,,counts: cube F_ZIB_attn.pkl; regime/CFG: ledger archive table + capture-instrument audit,0.000-1.000:pooled
+Diffusion archive (passive guider v1),Mochi 1,attn,4.5,30,48,478,120,header-less file,counts: cube F_MOCHI_attn.pkl; regime/CFG: ledger archive table + capture-instrument audit,0.000-1.000:branch mean
+Diffusion archive (passive guider v1),Mochi 1,attn,1.0,100,48,60,60,CFG + steps arm,counts: cube F_MOCHI1_attn.pkl; regime/CFG: ledger archive table + capture-instrument audit,0.000-1.000:cond-only
+Diffusion archive (passive guider v1),SD3.5 Medium,attn,4.5,40,24,480,120,,counts: cube F_SD35M_attn.pkl; regime/CFG: ledger archive table + capture-instrument audit,0.000-0.026:pooled; 0.026-0.051:mixed; 0.051-1.000:branch mean
+Diffusion archive (passive guider v1),SD3.5 Large,attn,3.5,28,38,485,120,pooled 74% of steps,counts: cube F_SD35L_attn.pkl; regime/CFG: ledger archive table + capture-instrument audit,0.000-1.000:by domain
+"Explicit-branch controls (instrument v2, R4) and R3",Z-Image Base,attn+MLP,4.0,25,30,19,19,cond + uncond,counts: cube R5_Z40_1024_s1001_attn.pkl (cond/uncond),0.000-1.000:explicit
+"Explicit-branch controls (instrument v2, R4) and R3",Z-Image Base,attn+MLP,1.0,25,30,80,80,R4 20 + R3 60,"counts: cubes R5_Z10_1024_s1001_attn.pkl, F3_Z10_1024_s1001_attn.pkl",0.000-1.000:cond-only
+"Explicit-branch controls (instrument v2, R4) and R3",SD3.5 Medium,attn,4.5,40,24,120,30,512/768/1024 px,"counts: cubes R5_S45_{1024,768,512}_s100*_attn.pkl",0.000-1.000:explicit
+"Explicit-branch controls (instrument v2, R4) and R3",SD3.5 Medium,attn,1.0,40,24,60,30,seeds 1001/1002,counts: cubes R5_S10_1024_s100*_attn.pkl,0.000-1.000:cond-only
+"Explicit-branch controls (instrument v2, R4) and R3",SD3.5 M step-count pair,attn,1.0 / 4.5,40 / 100,24,59,1,one prompt,"counts: cubes R5_P10_40/100, R5_P45_40/100",0.000-1.000:explicit
+"Explicit-branch controls (instrument v2, R4) and R3",SD1.5 U-Net (R3),attn+MLP,7.5,50,16,476,119,512 px; transformer blocks,"counts: review/r3_unet/out/u0_cache.npz (R3 nodes.py, UNetModel entry)",0.000-1.000:explicit
+"Explicit-branch controls (instrument v2, R4) and R3",ACE-Step 1.5 turbo (R3),attn+MLP,1.0,6,24,120,29,"audio, 180 s; 6-step distilled",counts: review/r3_ace/out/cache_attn.npz (R3 nodes.py),0.000-1.000:cond-only
+Autoregressive controls (v1 LLM script),Qwen2.5 1.5B / 3B / 7B,layer out,T = 0.7,tokens,28/36/28,,,,"layers: v11 fig/data/architecture_inventory.csv; regime: ledger ""LLM v1 capture is a nested running statistic""",0.000-1.000:nested
+Autoregressive controls (v1 LLM script),Mistral 7B Instruct / ablit,layer out,T = 0.7,tokens,32/32,,,,"layers: v11 fig/data/architecture_inventory.csv; regime: ledger ""LLM v1 capture is a nested running statistic""",0.000-1.000:nested
+Autoregressive controls (v1 LLM script),Llama 3.1 8B Base / Instruct,mixed,T = 0.7,tokens,32/32,,,hook schemas differ,"layers: v11 fig/data/architecture_inventory.csv; regime: ledger ""LLM v1 capture is a nested running statistic""",0.000-1.000:nested

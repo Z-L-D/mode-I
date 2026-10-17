@@ -1,0 +1,10 @@
+model,pc1,eff_rank,null_pc1_mean,null_rank_mean,p,source,y
+ZIT,0.836,1.706,0.398,4.88,0.001,"Tier 1 card ""Low-dimensional temporal backbone in CoS spectral coordinates"", v0.12 table (ledger_v020_text.txt line 166)",0.0
+ZIB,0.71,2.531,0.351,7.96,0.001,"Tier 1 card ""Low-dimensional temporal backbone in CoS spectral coordinates"", v0.12 table (ledger_v020_text.txt line 166)",1.0
+MOCHI,0.874,1.587,0.221,14.84,0.001,"Tier 1 card ""Low-dimensional temporal backbone in CoS spectral coordinates"", v0.12 table (ledger_v020_text.txt line 166)",2.0
+SD35M,0.897,1.51,0.188,14.67,0.001,"Tier 1 card ""Low-dimensional temporal backbone in CoS spectral coordinates"", v0.12 table (ledger_v020_text.txt line 166)",3.0
+SD35L,0.842,1.784,0.312,9.9,0.001,"Tier 1 card ""Low-dimensional temporal backbone in CoS spectral coordinates"", v0.12 table (ledger_v020_text.txt line 166)",4.0
+SD15attn,0.8969795642239382,1.4630699479133344,0.217848796998596,11.109138134826122,0.001,"review/r3_unet/out/P1_backbone.csv (post hoc, cond)",5.6
+SD15mlp,0.6150087801203787,2.239787433787497,0.1928896627186025,12.0863898232642,0.001,"review/r3_unet/out/P1_backbone.csv (post hoc, cond)",6.6
+ACEattn,0.7745749011744107,2.099281640367182,0.4542863635245492,3.858785439376781,0.001,"review/r3_ace/out/P1_backbone.csv (post hoc, cond-only, 6 states)",7.6
+ACEmlp,0.5640643746222841,2.728365642564453,0.3934911393843229,4.081992363989035,0.011,"review/r3_ace/out/P1_backbone.csv (post hoc, cond-only, 6 states)",8.6

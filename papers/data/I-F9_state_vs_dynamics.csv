@@ -1,0 +1,51 @@
+panel,a,b,kind,state_shape_r,field_r,tangent_cos,source,submodule,alignment,matched_state_r,matched_derivative_r
+a,ZIT,ZIB,lineage,0.9806425014893682,0.9841537860206824,0.942255077104264,round6/out/S1_hierarchy.csv,,,,
+a,ZIT,MOCHI,unrelated,0.7929481154768692,0.7934327983997072,0.2105928668985322,round6/out/S1_hierarchy.csv,,,,
+a,ZIT,SD35M,unrelated,-0.0600646579601187,-0.0205595380070207,-0.0719261222276325,round6/out/S1_hierarchy.csv,,,,
+a,ZIT,SD35L,unrelated,0.4559731536165636,0.4818672660020059,-0.0200347258620226,round6/out/S1_hierarchy.csv,,,,
+a,ZIB,MOCHI,unrelated,0.8285144073523099,0.8532825921393488,0.239561379603265,round6/out/S1_hierarchy.csv,,,,
+a,ZIB,SD35M,unrelated,-0.0341807292852951,0.0271523359689318,-0.0097265739583491,round6/out/S1_hierarchy.csv,,,,
+a,ZIB,SD35L,unrelated,0.4789526268001761,0.5670402695426178,-0.0243830799741066,round6/out/S1_hierarchy.csv,,,,
+a,MOCHI,SD35M,unrelated,0.1390755881990827,0.2478667747883265,0.15222012467694,round6/out/S1_hierarchy.csv,,,,
+a,MOCHI,SD35L,unrelated,0.539473269945406,0.6059544716196923,0.1592981968196063,round6/out/S1_hierarchy.csv,,,,
+a,SD35M,SD35L,same family,0.3182012083356723,0.3617624281966058,-0.2519453503917949,round6/out/S1_hierarchy.csv,,,,
+b,ZIT,ZIB,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,raw,0.974858106936307,0.9260991926327452
+b,ZIT,ZIB,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,procrustes,0.9773362096935952,0.9271681378554316
+b,ZIT,ZIB,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,linear,0.977667121305543,0.9258261261731008
+b,ZIT,ZIB,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,cca,0.9671158418740988,0.915407990404931
+b,ZIB,ZIT,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,raw,0.9748581069363068,0.9260991926327452
+b,ZIB,ZIT,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,procrustes,0.9773367825003916,0.9271704269835308
+b,ZIB,ZIT,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,linear,0.9784380716572836,0.9262462608656816
+b,ZIB,ZIT,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,cca,0.9671162642880552,0.9154089131993208
+b,ZIT,ZIB,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),mlp,raw,0.9658132970559988,0.9522939457889656
+b,ZIT,ZIB,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),mlp,procrustes,0.96607750110851,0.9526523261014068
+b,ZIT,ZIB,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),mlp,linear,0.9696125233795112,0.950871174642759
+b,ZIT,ZIB,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),mlp,cca,0.9633623780218245,0.9454366285311544
+b,ZIB,ZIT,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),mlp,raw,0.9658132970559988,0.9522939457889656
+b,ZIB,ZIT,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),mlp,procrustes,0.9660774075471306,0.9526445645593324
+b,ZIB,ZIT,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),mlp,linear,0.967000023195255,0.9515053748703116
+b,ZIB,ZIT,lineage,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),mlp,cca,0.9633619196841208,0.9454360943717248
+b,SD35M,SD35L,same family,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,raw,0.2200217076392295,-0.1314241496197556
+b,SD35M,SD35L,same family,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,procrustes,0.3712229317052881,-0.1153414175334182
+b,SD35M,SD35L,same family,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,linear,0.4733522148208708,-0.0631869964758914
+b,SD35M,SD35L,same family,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,cca,0.3743466851446604,0.026906386574029
+b,SD35L,SD35M,same family,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,raw,0.2200217076392295,-0.1314241496197556
+b,SD35L,SD35M,same family,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,procrustes,0.3711436501725306,-0.1155040804060154
+b,SD35L,SD35M,same family,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,linear,0.4054159756111681,-0.1272567961869147
+b,SD35L,SD35M,same family,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,cca,0.3745589432818583,0.0267756616659329
+b,ZIT,Mochi45,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,raw,0.4852177089684168,-0.1043119223983504
+b,ZIT,Mochi45,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,procrustes,0.5982600293266083,-0.1124362420273798
+b,ZIT,Mochi45,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,linear,0.6746224229380168,-0.047772503689038
+b,ZIT,Mochi45,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,cca,0.5272021998914657,-0.0480116172009646
+b,Mochi45,ZIT,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,raw,0.4852177089684168,-0.1043119223983504
+b,Mochi45,ZIT,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,procrustes,0.5982696294419202,-0.1164215491286945
+b,Mochi45,ZIT,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,linear,0.7483175429899418,-0.18108033160538
+b,Mochi45,ZIT,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,cca,0.5272024700289886,-0.0480114889458333
+b,SD35M,Mochi45,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,raw,0.3547487955998031,-0.004292333053886
+b,SD35M,Mochi45,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,procrustes,0.447006376300358,-0.0661934858593871
+b,SD35M,Mochi45,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,linear,0.5733348234057202,-0.0633360361277399
+b,SD35M,Mochi45,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,cca,0.3168672734131213,-0.0631326304343334
+b,Mochi45,SD35M,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,raw,0.3547487955998031,-0.004292333053886
+b,Mochi45,SD35M,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,procrustes,0.4466378465343145,-0.0603625394244567
+b,Mochi45,SD35M,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,linear,0.5596717646621161,0.0873846445750995
+b,Mochi45,SD35M,unrelated,,,,v11 fig/data/D10_common_latent_alignment.csv (ledger D10),attn,cca,0.3168673517827813,-0.0631325721522163
