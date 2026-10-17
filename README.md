@@ -51,13 +51,6 @@ recorded outputs use 428 Base generations on 105 prompts, while the current cube
 on the current cubes reproduces every other channel exactly and moves the Base rows slightly (for example the minimum
 seed-corrected prompt share 0.357 → 0.353; plateau onsets unchanged). The papers quote the recorded Round 2 values.
 
-## Preregistration and scoring
-
-Each round's preregistration is stored with a SHA-256 file and a UTC freeze time; the scorecards are in Appendix B of
-Mode-I and the appendix of Mode-II. Files under `review/` are kept as they were when scored, so their SHA-256 values still
-match. Documents in `review/` record the paths of the original working environment; the scripts have been made
-repository-relative.
-
 ## Requirements
 
 Python 3.11 (tested), with the packages in `requirements.txt`. The capture node in `capture_code_r3/` runs inside ComfyUI
