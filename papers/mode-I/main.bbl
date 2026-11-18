@@ -1,0 +1,802 @@
+\begin{thebibliography}{95}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ansuini et~al.(2019)Ansuini, Laio, Macke, and
+  Zoccolan]{ansuini2019intrinsic}
+Alessio Ansuini, Alessandro Laio, Jakob~H. Macke, and Davide Zoccolan.
+\newblock Intrinsic dimension of data representations in deep neural networks.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~32, pages 6111--6122, 2019.
+\newblock URL \url{https://arxiv.org/abs/1905.12784}.
+
+\bibitem[Arditi et~al.(2024)Arditi, Obeso, Syed, Paleka, Panickssery, Gurnee,
+  and Nanda]{arditi2024refusal}
+Andy Arditi, Oscar Obeso, Aaquib Syed, Daniel Paleka, Nina Panickssery, Wes
+  Gurnee, and Neel Nanda.
+\newblock Refusal in language models is mediated by a single direction.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~37, pages 136037--136083, 2024.
+\newblock \doi{10.52202/079017-4322}.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper_files/paper/2024/hash/f545448535dfde4f9786555403ab7c49-Abstract-Conference.html}.
+
+\bibitem[Biroli and M{\'e}zard(2023)]{biroli2023generative}
+Giulio Biroli and Marc M{\'e}zard.
+\newblock Generative diffusion in very large dimensions.
+\newblock \emph{Journal of Statistical Mechanics: Theory and Experiment},
+  2023:\penalty0 093402, 2023.
+\newblock \doi{10.1088/1742-5468/acf8ba}.
+\newblock URL \url{https://arxiv.org/abs/2306.03518}.
+
+\bibitem[Biroli et~al.(2024)Biroli, Bonnaire, de~Bortoli, and
+  M{\'e}zard]{biroli2024dynamical}
+Giulio Biroli, Tony Bonnaire, Valentin de~Bortoli, and Marc M{\'e}zard.
+\newblock Dynamical regimes of diffusion models.
+\newblock \emph{Nature Communications}, 15:\penalty0 9957, 2024.
+\newblock \doi{10.1038/s41467-024-54281-3}.
+\newblock URL \url{https://www.nature.com/articles/s41467-024-54281-3}.
+
+\bibitem[Bolhuis et~al.(2002)Bolhuis, Chandler, Dellago, and
+  Geissler]{bolhuis2002transition}
+Peter~G. Bolhuis, David Chandler, Christoph Dellago, and Phillip~L. Geissler.
+\newblock Transition path sampling: Throwing ropes over rough mountain passes,
+  in the dark.
+\newblock \emph{Annual Review of Physical Chemistry}, 53:\penalty0 291--318,
+  2002.
+\newblock \doi{10.1146/annurev.physchem.53.082301.113146}.
+\newblock URL \url{https://doi.org/10.1146/annurev.physchem.53.082301.113146}.
+
+\bibitem[Chen et~al.(2024{\natexlab{a}})Chen, Zhou, Wang, Shen, and
+  Lyu]{chen2024trajectory}
+Defang Chen, Zhenyu Zhou, Can Wang, Chunhua Shen, and Siwei Lyu.
+\newblock On the trajectory regularity of {ODE}-based diffusion sampling.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}, volume 235 of \emph{Proceedings of Machine Learning Research},
+  pages 7905--7934. PMLR, 2024{\natexlab{a}}.
+\newblock URL \url{https://proceedings.mlr.press/v235/chen24bm.html}.
+
+\bibitem[Chen et~al.(2024{\natexlab{b}})Chen, Ge, Xie, Wu, Yao, Ren, Wang, Luo,
+  Lu, and Li]{chen2024pixartsigma}
+Junsong Chen, Chongjian Ge, Enze Xie, Yue Wu, Lewei Yao, Xiaozhe Ren, Zhongdao
+  Wang, Ping Luo, Huchuan Lu, and Zhenguo Li.
+\newblock {PixArt-$\Sigma$}: Weak-to-strong training of diffusion transformer
+  for {4K} text-to-image generation.
+\newblock arXiv:2403.04692, 2024{\natexlab{b}}.
+
+\bibitem[Chen et~al.(2024{\natexlab{c}})Chen, Shen, Ye, Cao, Tu, Bouganis,
+  Zhao, and Chen]{chen2024deltadit}
+Pengtao Chen, Mingzhu Shen, Peng Ye, Jianjian Cao, Chongjun Tu, Christos-Savvas
+  Bouganis, Yiren Zhao, and Tao Chen.
+\newblock {$\Delta$-DiT}: A training-free acceleration method tailored for
+  diffusion transformers, 2024{\natexlab{c}}.
+\newblock URL \url{https://arxiv.org/abs/2406.01125}.
+
+\bibitem[Cheng et~al.(2025)Cheng, Doimo, Kervadec, Macocco, Yu, Laio, and
+  Baroni]{cheng2025emergence}
+Emily Cheng, Diego Doimo, Corentin Kervadec, Iuri Macocco, Lei Yu, Alessandro
+  Laio, and Marco Baroni.
+\newblock Emergence of a high-dimensional abstraction phase in language
+  transformers.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2405.15471}.
+
+\bibitem[Chi et~al.(2026)Chi, Dao, Nguyen, Van, Le, and Nguyen]{chi2026mta}
+Pham~Khanh Chi, Quoc~Phong Dao, Thuat Nguyen, Linh~Ngo Van, Trung Le, and
+  Thanh~Hong Nguyen.
+\newblock {MTA}: Multi-granular trajectory alignment for large language model
+  distillation.
+\newblock In \emph{Proceedings of the 64th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 32669--32684,
+  San Diego, California, United States, 2026. Association for Computational
+  Linguistics.
+\newblock \doi{10.18653/v1/2026.acl-long.1507}.
+\newblock URL \url{https://aclanthology.org/2026.acl-long.1507/}.
+
+\bibitem[Chun et~al.(2026)Chun, Canatar, Chung, and Lee]{chun2026estimating}
+Chanwoo Chun, Abdulkadir Canatar, SueYeon Chung, and Daniel Lee.
+\newblock Estimating dimensionality of neural representations from finite
+  samples.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2026.
+\newblock URL \url{https://arxiv.org/abs/2509.26560}.
+
+\bibitem[{comfyanonymous} and {Comfy-Org}(2023)]{comfyui2023}
+{comfyanonymous} and {Comfy-Org}.
+\newblock {ComfyUI}: A modular diffusion model {GUI}, {API} and backend with a
+  graph/nodes interface.
+\newblock GitHub repository, 2023.
+\newblock URL \url{https://github.com/comfyanonymous/ComfyUI}.
+\newblock GPL-3.0. Initial commit 2023-01-16. Cite the exact commit hash used
+  for capture.
+
+\bibitem[Cui et~al.(2022)Cui, Kumar, Marttinen, and Kaski]{cui2022deconfounded}
+Tianyu Cui, Yogesh Kumar, Pekka Marttinen, and Samuel Kaski.
+\newblock Deconfounded representation similarity for comparison of neural
+  networks.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~35, 2022.
+\newblock URL \url{https://arxiv.org/abs/2202.00095}.
+
+\bibitem[Davari et~al.(2023)Davari, Horoi, Natik, Lajoie, Wolf, and
+  Belilovsky]{davari2023reliability}
+MohammadReza Davari, Stefan Horoi, Amine Natik, Guillaume Lajoie, Guy Wolf, and
+  Eugene Belilovsky.
+\newblock Reliability of {CKA} as a similarity measure in deep learning.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2210.16156}.
+
+\bibitem[Ding et~al.(2021)Ding, Denain, and Steinhardt]{ding2021grounding}
+Frances Ding, Jean-Stanislas Denain, and Jacob Steinhardt.
+\newblock Grounding representation similarity through statistical testing.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~34, 2021.
+\newblock URL \url{https://arxiv.org/abs/2108.01661}.
+
+\bibitem[E and Vanden-Eijnden(2006)]{e2006towards}
+Weinan E and Eric Vanden-Eijnden.
+\newblock Towards a theory of transition paths.
+\newblock \emph{Journal of Statistical Physics}, 123\penalty0 (3):\penalty0
+  503--523, 2006.
+\newblock \doi{10.1007/s10955-005-9003-9}.
+\newblock URL \url{https://doi.org/10.1007/s10955-005-9003-9}.
+
+\bibitem[E and Vanden-Eijnden(2010)]{e2010transitionpath}
+Weinan E and Eric Vanden-Eijnden.
+\newblock Transition-path theory and path-finding algorithms for the study of
+  rare events.
+\newblock \emph{Annual Review of Physical Chemistry}, 61:\penalty0 391--420,
+  2010.
+\newblock \doi{10.1146/annurev.physchem.040808.090412}.
+\newblock URL \url{https://doi.org/10.1146/annurev.physchem.040808.090412}.
+
+\bibitem[Esser et~al.(2024)Esser, Kulal, Blattmann, Entezari, M{\"u}ller,
+  Saini, Levi, Lorenz, Sauer, Boesel, Podell, Dockhorn, English, and
+  Rombach]{esser2024scaling}
+Patrick Esser, Sumith Kulal, Andreas Blattmann, Rahim Entezari, Jonas
+  M{\"u}ller, Harry Saini, Yam Levi, Dominik Lorenz, Axel Sauer, Frederic
+  Boesel, Dustin Podell, Tim Dockhorn, Zion English, and Robin Rombach.
+\newblock Scaling rectified flow transformers for high-resolution image
+  synthesis.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}, volume 235 of \emph{Proceedings of Machine Learning Research},
+  pages 12606--12633. PMLR, 2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/esser24a.html}.
+
+\bibitem[Falck et~al.(2025)Falck, Pandeva, Zahirnia, Lawrence, Turner, Meeds,
+  Zazo, and Karmalkar]{falck2025fourier}
+Fabian Falck, Teodora Pandeva, Kiarash Zahirnia, Rachel Lawrence, Richard
+  Turner, Edward Meeds, Javier Zazo, and Sushrut Karmalkar.
+\newblock A fourier space perspective on diffusion models.
+\newblock \emph{arXiv preprint arXiv:2505.11278}, 2025.
+
+\bibitem[Gan et~al.(2025{\natexlab{a}})Gan, Tu, Chen, Chen, Li, Harandi, and
+  Lin]{gan2025unleashing}
+Chaofan Gan, Yuanpeng Tu, Xi~Chen, Tieyuan Chen, Yuxi Li, Mehrtash Harandi, and
+  Weiyao Lin.
+\newblock Unleashing diffusion transformers for visual correspondence by
+  modulating massive activations.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~38, 2025{\natexlab{a}}.
+\newblock URL \url{https://arxiv.org/abs/2505.18584}.
+
+\bibitem[Gan et~al.(2025{\natexlab{b}})Gan, Zhao, Tu, Chen, Qin, Chen, Harandi,
+  and Lin]{gan2025massive}
+Chaofan Gan, Zicheng Zhao, Yuanpeng Tu, Xi~Chen, Ziran Qin, Tieyuan Chen,
+  Mehrtash Harandi, and Weiyao Lin.
+\newblock Massive activations are the key to local detail synthesis in
+  diffusion transformers, 2025{\natexlab{b}}.
+\newblock URL \url{https://arxiv.org/abs/2510.11538}.
+
+\bibitem[Gandikota and Bau(2026)]{gandikota2026distilling}
+Rohit Gandikota and David Bau.
+\newblock Distilling diversity and control in diffusion models.
+\newblock In \emph{Proceedings of the IEEE/CVF Winter Conference on
+  Applications of Computer Vision (WACV)}, pages 1304--1313, 2026.
+\newblock URL \url{https://arxiv.org/abs/2503.10637}.
+
+\bibitem[Gao et~al.(2017)Gao, Trautmann, Yu, Santhanam, Ryu, Shenoy, and
+  Ganguli]{gao2017theory}
+Peiran Gao, Eric Trautmann, Byron Yu, Gopal Santhanam, Stephen Ryu, Krishna
+  Shenoy, and Surya Ganguli.
+\newblock A theory of multineuronal dimensionality, dynamics and measurement.
+\newblock bioRxiv preprint 214262, 2017.
+\newblock URL \url{https://www.biorxiv.org/content/10.1101/214262v2}.
+
+\bibitem[Garrido et~al.(2023)Garrido, Balestriero, Najman, and
+  LeCun]{garrido2023rankme}
+Quentin Garrido, Randall Balestriero, Laurent Najman, and Yann LeCun.
+\newblock {RankMe}: Assessing the downstream performance of pretrained
+  self-supervised representations by their rank.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, volume 202 of \emph{Proceedings of Machine Learning Research},
+  pages 10929--10974. PMLR, 2023.
+\newblock URL \url{https://proceedings.mlr.press/v202/garrido23a.html}.
+
+\bibitem[{Genmo Team}(2024)]{genmo2024mochi}
+{Genmo Team}.
+\newblock {Mochi 1}.
+\newblock \url{https://github.com/genmoai/models}, 2024.
+\newblock URL \url{https://huggingface.co/genmo/mochi-1-preview}.
+\newblock Model card and code; Asymmetric Diffusion Transformer (AsymmDiT),
+  T5-XXL text encoder. Accessed 2026-10-08.
+
+\bibitem[Gong et~al.(2026)Gong, Song, Zhao, Wang, Xu, Guo, and
+  Yang]{gong2026acestep15}
+Junmin Gong, Yulin Song, Wenxiao Zhao, Sen Wang, Shengyuan Xu, Jing Guo, and
+  Xuerui Yang.
+\newblock {ACE-Step 1.5}: Pushing the boundaries of open-source music
+  generation.
+\newblock arXiv:2602.00744, 2026.
+
+\bibitem[Granger and Newbold(1974)]{granger1974spurious}
+Clive W.~J. Granger and Paul Newbold.
+\newblock Spurious regressions in econometrics.
+\newblock \emph{Journal of Econometrics}, 2\penalty0 (2):\penalty0 111--120,
+  1974.
+\newblock \doi{10.1016/0304-4076(74)90034-7}.
+\newblock URL \url{https://doi.org/10.1016/0304-4076(74)90034-7}.
+
+\bibitem[Grattafiori et~al.(2024)Grattafiori, Dubey, Jauhri, Pandey, Kadian,
+  et~al.]{grattafiori2024llama}
+Aaron Grattafiori, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek
+  Kadian, et~al.
+\newblock The {Llama 3} herd of models, 2024.
+\newblock URL \url{https://arxiv.org/abs/2407.21783}.
+
+\bibitem[Gr{\"o}ger et~al.(2026)Gr{\"o}ger, Wen, and
+  Brbi{\'c}]{groger2026revisiting}
+Fabian Gr{\"o}ger, Shuo Wen, and Maria Brbi{\'c}.
+\newblock Revisiting the {P}latonic representation hypothesis: An
+  {A}ristotelian view, 2026.
+\newblock URL \url{https://arxiv.org/abs/2602.14486}.
+
+\bibitem[Handke et~al.(2026)Handke, Stan{\v{c}}evi{\'c}, Koulischer, Demeester,
+  and Ambrogioni]{handke2026entropic}
+Florian Handke, Dejan Stan{\v{c}}evi{\'c}, Felix Koulischer, Thomas Demeester,
+  and Luca Ambrogioni.
+\newblock The entropic signature of class speciation in diffusion models.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2026.
+\newblock URL \url{https://arxiv.org/abs/2602.09651}.
+
+\bibitem[Harris(2020)]{harris2020nonsense}
+K.~D. Harris.
+\newblock Nonsense correlations in neuroscience.
+\newblock bioRxiv preprint, 2020.
+\newblock URL
+  \url{https://www.biorxiv.org/content/10.1101/2020.11.29.402719v1}.
+
+\bibitem[Haskins and Adams(2025)]{haskins2025distilled}
+Reilly Haskins and Benjamin Adams.
+\newblock Distilled circuits: A mechanistic study of internal restructuring in
+  knowledge distillation, 2025.
+\newblock URL \url{https://arxiv.org/abs/2505.10822}.
+
+\bibitem[Ho and Salimans(2022)]{ho2022classifierfree}
+Jonathan Ho and Tim Salimans.
+\newblock Classifier-free diffusion guidance, 2022.
+\newblock URL \url{https://arxiv.org/abs/2207.12598}.
+
+\bibitem[Ho et~al.(2020)Ho, Jain, and Abbeel]{ho2020denoising}
+Jonathan Ho, Ajay Jain, and Pieter Abbeel.
+\newblock Denoising diffusion probabilistic models.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~33, 2020.
+\newblock URL \url{https://arxiv.org/abs/2006.11239}.
+
+\bibitem[Hoogeboom et~al.(2023)Hoogeboom, Heek, and
+  Salimans]{hoogeboom2023simple}
+Emiel Hoogeboom, Jonathan Heek, and Tim Salimans.
+\newblock simple diffusion: End-to-end diffusion for high resolution images.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, volume 202 of \emph{Proceedings of Machine Learning Research},
+  pages 13213--13232. PMLR, 2023.
+\newblock URL \url{https://proceedings.mlr.press/v202/hoogeboom23a.html}.
+
+\bibitem[Huh et~al.(2024)Huh, Cheung, Wang, and Isola]{huh2024platonic}
+Minyoung Huh, Brian Cheung, Tongzhou Wang, and Phillip Isola.
+\newblock Position: The {P}latonic representation hypothesis.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}, volume 235 of \emph{Proceedings of Machine Learning Research},
+  pages 20617--20642. PMLR, 2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/huh24a.html}.
+
+\bibitem[Jiang et~al.(2023)Jiang, Sablayrolles, Mensch, Bamford, Chaplot,
+  de~las Casas, Bressand, Lengyel, Lample, Saulnier, Renard~Lavaud, Lachaux,
+  Stock, Le~Scao, Lavril, Wang, Lacroix, and El~Sayed]{jiang2023mistral}
+Albert~Q. Jiang, Alexandre Sablayrolles, Arthur Mensch, Chris Bamford,
+  Devendra~Singh Chaplot, Diego de~las Casas, Florian Bressand, Gianna Lengyel,
+  Guillaume Lample, Lucile Saulnier, L{\'e}lio Renard~Lavaud, Marie-Anne
+  Lachaux, Pierre Stock, Teven Le~Scao, Thibaut Lavril, Thomas Wang,
+  Timoth{\'e}e Lacroix, and William El~Sayed.
+\newblock {Mistral 7B}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2310.06825}.
+
+\bibitem[Kang et~al.(2025)Kang, Yue, Lu, Lin, Zhao, Wang, Huang, and
+  Feng]{kang2025videophysics}
+Bingyi Kang, Yang Yue, Rui Lu, Zhijie Lin, Yang Zhao, Kaixin Wang, Gao Huang,
+  and Jiashi Feng.
+\newblock How far is video generation from world model: A physical law
+  perspective.
+\newblock In \emph{Proceedings of the 42nd International Conference on Machine
+  Learning (ICML)}, 2025.
+\newblock arXiv:2411.02385.
+
+\bibitem[Kim et~al.(1991)Kim, Nelson, and Startz]{kim1991mean}
+Myung~Jig Kim, Charles~R. Nelson, and Richard Startz.
+\newblock Mean reversion in stock prices? {A} reappraisal of the empirical
+  evidence.
+\newblock \emph{The Review of Economic Studies}, 58:\penalty0 515--528, 1991.
+\newblock URL \url{https://www.nber.org/papers/w2795}.
+\newblock Also NBER Working Paper 2795 (1988), doi:10.3386/w2795.
+
+\bibitem[Klabunde et~al.(2025)Klabunde, Schumacher, Strohmaier, and
+  Lemmerich]{klabunde2025similarity}
+Max Klabunde, Tobias Schumacher, Markus Strohmaier, and Florian Lemmerich.
+\newblock Similarity of neural network models: A survey of functional and
+  representational measures.
+\newblock \emph{ACM Computing Surveys}, 2025.
+\newblock \doi{10.1145/3728458}.
+\newblock URL \url{https://arxiv.org/abs/2305.06329}.
+
+\bibitem[Kornblith et~al.(2019)Kornblith, Norouzi, Lee, and
+  Hinton]{kornblith2019similarity}
+Simon Kornblith, Mohammad Norouzi, Honglak Lee, and Geoffrey Hinton.
+\newblock Similarity of neural network representations revisited.
+\newblock In \emph{Proceedings of the 36th International Conference on Machine
+  Learning}, volume~97 of \emph{Proceedings of Machine Learning Research},
+  pages 3519--3529. PMLR, 2019.
+\newblock URL \url{https://proceedings.mlr.press/v97/kornblith19a.html}.
+
+\bibitem[Kriegeskorte et~al.(2008)Kriegeskorte, Mur, and
+  Bandettini]{kriegeskorte2008representational}
+Nikolaus Kriegeskorte, Marieke Mur, and Peter Bandettini.
+\newblock Representational similarity analysis -- connecting the branches of
+  systems neuroscience.
+\newblock \emph{Frontiers in Systems Neuroscience}, 2:\penalty0 4, 2008.
+\newblock \doi{10.3389/neuro.06.004.2008}.
+\newblock URL
+  \url{https://www.frontiersin.org/articles/10.3389/neuro.06.004.2008/full}.
+
+\bibitem[Kvinge et~al.(2023)Kvinge, Brown, and Godfrey]{kvinge2023exploring}
+Henry Kvinge, Davis Brown, and Charles Godfrey.
+\newblock Exploring the representation manifolds of stable diffusion through
+  the lens of intrinsic dimension, 2023.
+\newblock URL \url{https://arxiv.org/abs/2302.09301}.
+
+\bibitem[Kynk{\"a}{\"a}nniemi et~al.(2024)Kynk{\"a}{\"a}nniemi, Aittala,
+  Karras, Laine, Aila, and Lehtinen]{kynkaanniemi2024applying}
+Tuomas Kynk{\"a}{\"a}nniemi, Miika Aittala, Tero Karras, Samuli Laine, Timo
+  Aila, and Jaakko Lehtinen.
+\newblock Applying guidance in a limited interval improves sample and
+  distribution quality in diffusion models.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~37, 2024.
+\newblock \doi{10.52202/079017-3892}.
+\newblock URL \url{https://arxiv.org/abs/2404.07724}.
+
+\bibitem[Li and Chen(2024)]{li2024critical}
+Marvin Li and Sitan Chen.
+\newblock Critical windows: Non-asymptotic theory for feature emergence in
+  diffusion models.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}, volume 235 of \emph{Proceedings of Machine Learning Research},
+  pages 27474--27498. PMLR, 2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/li24g.html}.
+
+\bibitem[Li et~al.(2026)Li, Jones, Tong, and Bronstein]{li2026why}
+Shucheng Li, Iolo Jones, Alexander Tong, and Michael Bronstein.
+\newblock Why are distribution-matching distilled students lazy?
+  {U}nderstanding the copying behavior in few-step distillation.
+\newblock ICML 2026 Workshop on Foundations of Deep Generative Models
+  (non-archival poster), 2026.
+\newblock URL \url{https://icml.cc/virtual/2026/70197}.
+
+\bibitem[Lipman et~al.(2023)Lipman, Chen, Ben-Hamu, Nickel, and
+  Le]{lipman2023flow}
+Yaron Lipman, Ricky T.~Q. Chen, Heli Ben-Hamu, Maximilian Nickel, and Matthew
+  Le.
+\newblock Flow matching for generative modeling.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2210.02747}.
+
+\bibitem[Litwin-Kumar et~al.(2017)Litwin-Kumar, Harris, Axel, Sompolinsky, and
+  Abbott]{litwinkumar2017optimal}
+Ashok Litwin-Kumar, Kameron~Decker Harris, Richard Axel, Haim Sompolinsky, and
+  L.~F. Abbott.
+\newblock Optimal degrees of synaptic connectivity.
+\newblock \emph{Neuron}, 93\penalty0 (5):\penalty0 1153--1164.e7, 2017.
+\newblock \doi{10.1016/j.neuron.2017.01.030}.
+\newblock URL \url{https://doi.org/10.1016/j.neuron.2017.01.030}.
+
+\bibitem[Liu et~al.(2025)Liu, Gao, Liu, Du, Li, Wu, Jin, Cao, Zhang, Li, and
+  Hoi]{liu2025decoupled}
+Dongyang Liu, Peng Gao, David Liu, Ruoyi Du, Zhen Li, Qilong Wu, Xin Jin, Sihan
+  Cao, Shifeng Zhang, Hongsheng Li, and Steven Hoi.
+\newblock Decoupled {DMD}: {CFG} augmentation as the spear, distribution
+  matching as the shield, 2025.
+\newblock URL \url{https://arxiv.org/abs/2511.22677}.
+
+\bibitem[Liu et~al.(2023)Liu, Gong, and Liu]{liu2023flow}
+Xingchao Liu, Chengyue Gong, and Qiang Liu.
+\newblock Flow straight and fast: Learning to generate and transfer data with
+  rectified flow.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2209.03003}.
+
+\bibitem[Lo and MacKinlay(1988)]{lo1988stock}
+Andrew~W. Lo and A.~Craig MacKinlay.
+\newblock Stock market prices do not follow random walks: Evidence from a
+  simple specification test.
+\newblock \emph{The Review of Financial Studies}, 1\penalty0 (1):\penalty0
+  41--66, 1988.
+\newblock \doi{10.1093/rfs/1.1.41}.
+\newblock URL \url{https://doi.org/10.1093/rfs/1.1.41}.
+
+\bibitem[Lo and MacKinlay(1989)]{lo1989size}
+Andrew~W. Lo and A.~Craig MacKinlay.
+\newblock The size and power of the variance ratio test in finite samples: A
+  {M}onte {C}arlo investigation.
+\newblock \emph{Journal of Econometrics}, 40\penalty0 (2):\penalty0 203--238,
+  1989.
+\newblock \doi{10.1016/0304-4076(89)90083-3}.
+\newblock URL \url{https://doi.org/10.1016/0304-4076(89)90083-3}.
+
+\bibitem[Mantel(1967)]{mantel1967detection}
+Nathan Mantel.
+\newblock The detection of disease clustering and a generalized regression
+  approach.
+\newblock \emph{Cancer Research}, 27\penalty0 (2):\penalty0 209--220, 1967.
+\newblock URL
+  \url{https://aacrjournals.org/cancerres/article/27/2_Part_1/209/476508/The-Detection-of-Disease-Clustering-and-a}.
+
+\bibitem[Mar{\v{c}}enko and Pastur(1967)]{marchenko1967distribution}
+Vladimir~A. Mar{\v{c}}enko and Leonid~A. Pastur.
+\newblock Distribution of eigenvalues for some sets of random matrices.
+\newblock \emph{Mathematics of the USSR-Sbornik}, 1\penalty0 (4):\penalty0
+  457--483, 1967.
+\newblock \doi{10.1070/SM1967v001n04ABEH001994}.
+
+\bibitem[Morcos et~al.(2018)Morcos, Raghu, and Bengio]{morcos2018insights}
+Ari Morcos, Maithra Raghu, and Samy Bengio.
+\newblock Insights on representational similarity in neural networks with
+  canonical correlation.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~31, pages 5727--5736, 2018.
+\newblock URL \url{https://arxiv.org/abs/1806.05759}.
+
+\bibitem[Muggeo(2003)]{muggeo2003estimating}
+Vito M.~R. Muggeo.
+\newblock Estimating regression models with unknown break-points.
+\newblock \emph{Statistics in Medicine}, 22\penalty0 (19):\penalty0 3055--3071,
+  2003.
+\newblock \doi{10.1002/sim.1545}.
+\newblock URL \url{https://doi.org/10.1002/sim.1545}.
+
+\bibitem[Nosek et~al.(2018)Nosek, Ebersole, DeHaven, and
+  Mellor]{nosek2018preregistration}
+Brian~A. Nosek, Charles~R. Ebersole, Alexander~C. DeHaven, and David~T. Mellor.
+\newblock The preregistration revolution.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 115\penalty0
+  (11):\penalty0 2600--2606, 2018.
+\newblock \doi{10.1073/pnas.1708274114}.
+\newblock URL \url{https://doi.org/10.1073/pnas.1708274114}.
+
+\bibitem[{NVIDIA}(2025)]{nvidia2025cosmos}
+{NVIDIA}.
+\newblock Cosmos world foundation model platform for physical {AI}.
+\newblock arXiv:2501.03575; Cosmos-Predict2 checkpoints released 2025, 2025.
+
+\bibitem[Peebles and Xie(2023)]{peebles2023scalable}
+William Peebles and Saining Xie.
+\newblock Scalable diffusion models with transformers.
+\newblock In \emph{Proceedings of the IEEE/CVF International Conference on
+  Computer Vision (ICCV)}, pages 4195--4205, 2023.
+\newblock \doi{10.1109/ICCV51070.2023.00387}.
+\newblock URL \url{https://arxiv.org/abs/2212.09748}.
+
+\bibitem[{Qwen} et~al.(2024){Qwen}, Yang, Yang, Zhang, Hui, Zheng, Yu, Li, Liu,
+  et~al.]{qwen2024qwen25}
+{Qwen}, An~Yang, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo~Zheng, Bowen Yu,
+  Chengyuan Li, Dayiheng Liu, et~al.
+\newblock {Qwen2.5} technical report, 2024.
+\newblock URL \url{https://arxiv.org/abs/2412.15115}.
+
+\bibitem[Raghu et~al.(2017)Raghu, Gilmer, Yosinski, and
+  Sohl-Dickstein]{raghu2017svcca}
+Maithra Raghu, Justin Gilmer, Jason Yosinski, and Jascha Sohl-Dickstein.
+\newblock {SVCCA}: Singular vector canonical correlation analysis for deep
+  learning dynamics and interpretability.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~30, pages 6076--6085, 2017.
+\newblock URL \url{https://arxiv.org/abs/1706.05806}.
+
+\bibitem[Raya and Ambrogioni(2023)]{raya2023spontaneous}
+Gabriel Raya and Luca Ambrogioni.
+\newblock Spontaneous symmetry breaking in generative diffusion models.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~36, 2023.
+\newblock URL \url{https://arxiv.org/abs/2305.19693}.
+
+\bibitem[Recanatesi et~al.(2019)Recanatesi, Farrell, Advani, Moore, Lajoie, and
+  Shea-Brown]{recanatesi2019dimensionality}
+Stefano Recanatesi, Matthew Farrell, Madhu Advani, Timothy Moore, Guillaume
+  Lajoie, and Eric Shea-Brown.
+\newblock Dimensionality compression and expansion in deep neural networks,
+  2019.
+\newblock URL \url{https://arxiv.org/abs/1906.00443}.
+
+\bibitem[Recanatesi et~al.(2022)Recanatesi, Bradde, Balasubramanian, Steinmetz,
+  and Shea-Brown]{recanatesi2022scaledependent}
+Stefano Recanatesi, Serena Bradde, Vijay Balasubramanian, Nicholas~A.
+  Steinmetz, and Eric Shea-Brown.
+\newblock A scale-dependent measure of system dimensionality.
+\newblock \emph{Patterns}, 3\penalty0 (8):\penalty0 100555, 2022.
+\newblock \doi{10.1016/j.patter.2022.100555}.
+\newblock URL \url{https://doi.org/10.1016/j.patter.2022.100555}.
+
+\bibitem[Rombach et~al.(2022)Rombach, Blattmann, Lorenz, Esser, and
+  Ommer]{rombach2022high}
+Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Bj{\"o}rn
+  Ommer.
+\newblock High-resolution image synthesis with latent diffusion models.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition (CVPR)}, pages 10684--10695, 2022.
+\newblock URL \url{https://arxiv.org/abs/2112.10752}.
+
+\bibitem[Ronneberger et~al.(2015)Ronneberger, Fischer, and
+  Brox]{ronneberger2015unet}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+\newblock {U-Net}: Convolutional networks for biomedical image segmentation.
+\newblock In \emph{Medical Image Computing and Computer-Assisted Intervention
+  (MICCAI)}, volume 9351 of \emph{Lecture Notes in Computer Science}, pages
+  234--241, 2015.
+\newblock URL \url{https://arxiv.org/abs/1505.04597}.
+
+\bibitem[Roy and Vetterli(2007)]{roy2007effective}
+Olivier Roy and Martin Vetterli.
+\newblock The effective rank: A measure of effective dimensionality.
+\newblock In \emph{Proceedings of the 15th European Signal Processing
+  Conference (EUSIPCO)}, Pozna{\'n}, Poland, 2007.
+\newblock \doi{10.5281/zenodo.40328}.
+\newblock URL \url{https://infoscience.epfl.ch/record/110188}.
+
+\bibitem[Salimans and Ho(2022)]{salimans2022progressive}
+Tim Salimans and Jonathan Ho.
+\newblock Progressive distillation for fast sampling of diffusion models.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2022.
+\newblock URL \url{https://arxiv.org/abs/2202.00512}.
+
+\bibitem[Sauer et~al.(2024{\natexlab{a}})Sauer, Boesel, Dockhorn, Blattmann,
+  Esser, and Rombach]{sauer2024fast}
+Axel Sauer, Frederic Boesel, Tim Dockhorn, Andreas Blattmann, Patrick Esser,
+  and Robin Rombach.
+\newblock Fast high-resolution image synthesis with latent adversarial
+  diffusion distillation, 2024{\natexlab{a}}.
+\newblock URL \url{https://arxiv.org/abs/2403.12015}.
+
+\bibitem[Sauer et~al.(2024{\natexlab{b}})Sauer, Lorenz, Blattmann, and
+  Rombach]{sauer2024adversarial}
+Axel Sauer, Dominik Lorenz, Andreas Blattmann, and Robin Rombach.
+\newblock Adversarial diffusion distillation.
+\newblock In \emph{Computer Vision -- ECCV 2024}, 2024{\natexlab{b}}.
+\newblock \doi{10.1007/978-3-031-73016-0_6}.
+\newblock URL \url{https://arxiv.org/abs/2311.17042}.
+
+\bibitem[Schreiber and Schmitz(2000)]{schreiber2000surrogate}
+Thomas Schreiber and Andreas Schmitz.
+\newblock Surrogate time series.
+\newblock \emph{Physica D: Nonlinear Phenomena}, 142\penalty0 (3--4):\penalty0
+  346--382, 2000.
+\newblock \doi{10.1016/S0167-2789(00)00043-9}.
+\newblock URL \url{https://doi.org/10.1016/S0167-2789(00)00043-9}.
+
+\bibitem[Sclocchi et~al.(2025)Sclocchi, Favero, and Wyart]{sclocchi2025phase}
+Antonio Sclocchi, Alessandro Favero, and Matthieu Wyart.
+\newblock A phase transition in diffusion models reveals the hierarchical
+  nature of data.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 122\penalty0
+  (1):\penalty0 e2408799121, 2025.
+\newblock \doi{10.1073/pnas.2408799121}.
+\newblock URL \url{https://arxiv.org/abs/2402.16991}.
+
+\bibitem[Shi et~al.(2025)Shi, Zheng, Song, and Yeh]{shi2025knowledge}
+Qin Shi, Amber~Yijia Zheng, Qifan Song, and Raymond~A. Yeh.
+\newblock Knowledge distillation detection for open-weights models.
+\newblock arXiv:2510.02302, 2025.
+
+\bibitem[Simmons et~al.(2011)Simmons, Nelson, and Simonsohn]{simmons2011false}
+Joseph~P. Simmons, Leif~D. Nelson, and Uri Simonsohn.
+\newblock False-positive psychology: Undisclosed flexibility in data collection
+  and analysis allows presenting anything as significant.
+\newblock \emph{Psychological Science}, 22\penalty0 (11):\penalty0 1359--1366,
+  2011.
+\newblock \doi{10.1177/0956797611417632}.
+\newblock URL \url{https://doi.org/10.1177/0956797611417632}.
+
+\bibitem[Skean et~al.(2025)Skean, Arefin, Zhao, Patel, Naghiyev, LeCun, and
+  Shwartz-Ziv]{skean2025layer}
+Oscar Skean, Md~Rifat Arefin, Dan Zhao, Niket Patel, Jalal Naghiyev, Yann
+  LeCun, and Ravid Shwartz-Ziv.
+\newblock Layer by layer: Uncovering hidden representations in language models.
+\newblock arXiv:2502.02013, 2025.
+
+\bibitem[Song et~al.(2021)Song, Sohl-Dickstein, Kingma, Kumar, Ermon, and
+  Poole]{song2021scorebased}
+Yang Song, Jascha Sohl-Dickstein, Diederik~P. Kingma, Abhishek Kumar, Stefano
+  Ermon, and Ben Poole.
+\newblock Score-based generative modeling through stochastic differential
+  equations.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2021.
+\newblock URL \url{https://arxiv.org/abs/2011.13456}.
+
+\bibitem[Song et~al.(2023)Song, Dhariwal, Chen, and
+  Sutskever]{song2023consistency}
+Yang Song, Prafulla Dhariwal, Mark Chen, and Ilya Sutskever.
+\newblock Consistency models.
+\newblock In \emph{Proceedings of the 40th International Conference on Machine
+  Learning}, volume 202 of \emph{Proceedings of Machine Learning Research},
+  pages 32211--32252. PMLR, 2023.
+\newblock URL \url{https://proceedings.mlr.press/v202/song23a.html}.
+
+\bibitem[Sun et~al.(2024)Sun, Chen, Kolter, and Liu]{sun2024massive}
+Mingjie Sun, Xinlei Chen, J.~Zico Kolter, and Zhuang Liu.
+\newblock Massive activations in large language models.
+\newblock In \emph{First Conference on Language Modeling (COLM)}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2402.17762}.
+
+\bibitem[Sun et~al.(2026)Sun, Canziani, LeCun, and Zhu]{sun2026anatomy}
+Shangwen Sun, Alfredo Canziani, Yann LeCun, and Jiachen Zhu.
+\newblock Anatomy of massive activations and attention sinks.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, 2026.
+\newblock URL \url{https://icml.cc/virtual/2026/poster/63610}.
+\newblock arXiv title: ``The Spike, the Sparse and the Sink: Anatomy of Massive
+  Activations and Attention Sinks''.
+
+\bibitem[Surkov et~al.(2025)Surkov, Wendler, Mari, Terekhov, Deschenaux, West,
+  Gulcehre, and Bau]{surkov2025onestep}
+Viacheslav Surkov, Chris Wendler, Antonio Mari, Mikhail Terekhov, Justin
+  Deschenaux, Robert West, Caglar Gulcehre, and David Bau.
+\newblock One-step is enough: Sparse autoencoders for text-to-image diffusion
+  models.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~38, 2025.
+\newblock URL \url{https://arxiv.org/abs/2410.22366}.
+
+\bibitem[Tang et~al.(2026)Tang, Wu, Zhang, and
+  Vasilakos]{tang2026representations}
+Haiyong Tang, Hanzhou Wu, Xinpeng Zhang, and Athanasios~V. Vasilakos.
+\newblock From representations to computational trajectories: Intrinsic
+  fingerprinting for large language model provenance verification.
+\newblock arXiv:2610.34675, 2026.
+
+\bibitem[Theiler et~al.(1992)Theiler, Eubank, Longtin, Galdrikian, and
+  Farmer]{theiler1992testing}
+James Theiler, Stephen Eubank, Andr{\'e} Longtin, Bryan Galdrikian, and
+  J.~Doyne Farmer.
+\newblock Testing for nonlinearity in time series: The method of surrogate
+  data.
+\newblock \emph{Physica D: Nonlinear Phenomena}, 58\penalty0 (1--4):\penalty0
+  77--94, 1992.
+\newblock \doi{10.1016/0167-2789(92)90102-S}.
+\newblock URL \url{https://doi.org/10.1016/0167-2789(92)90102-S}.
+
+\bibitem[{Tongyi-MAI}(2025)]{tongyi2025zimageturbo}
+{Tongyi-MAI}.
+\newblock {Z-Image-Turbo}: model card.
+\newblock Hugging Face model repository, 2025.
+\newblock URL \url{https://huggingface.co/Tongyi-MAI/Z-Image-Turbo}.
+\newblock Distilled 8-NFE model, guidance scale 0. Accessed 2026-10-08.
+
+\bibitem[{Tongyi-MAI}(2026)]{tongyi2026zimage}
+{Tongyi-MAI}.
+\newblock {Z-Image}: model card (undistilled base model).
+\newblock Hugging Face model repository, 2026.
+\newblock URL \url{https://huggingface.co/Tongyi-MAI/Z-Image}.
+\newblock Released 2026-01-27 per the Tongyi-MAI/Z-Image GitHub README.
+  Accessed 2026-10-08.
+
+\bibitem[Turri et~al.(2026)Turri, Bucciarelli, Sarto, Baraldi, and
+  Cornia]{turri2026few}
+Evelyn Turri, Davide Bucciarelli, Sara Sarto, Lorenzo Baraldi, and Marcella
+  Cornia.
+\newblock Few channels draw the whole picture: Revealing massive activations in
+  diffusion transformers, 2026.
+\newblock URL \url{https://arxiv.org/abs/2605.13974}.
+
+\bibitem[Valeriani et~al.(2023)Valeriani, Doimo, Cuturello, Laio, Ansuini, and
+  Cazzaniga]{valeriani2023geometry}
+Lucrezia Valeriani, Diego Doimo, Francesca Cuturello, Alessandro Laio, Alessio
+  Ansuini, and Alberto Cazzaniga.
+\newblock The geometry of hidden representations of large transformer models.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~36, 2023.
+\newblock URL \url{https://arxiv.org/abs/2302.00294}.
+
+\bibitem[Varoquaux(2018)]{varoquaux2018cross}
+Ga{\"e}l Varoquaux.
+\newblock Cross-validation failure: Small sample sizes lead to large error
+  bars.
+\newblock \emph{NeuroImage}, 180:\penalty0 68--77, 2018.
+\newblock \doi{10.1016/j.neuroimage.2017.06.061}.
+\newblock URL \url{https://doi.org/10.1016/j.neuroimage.2017.06.061}.
+
+\bibitem[Williams et~al.(2021)Williams, Kunz, Kornblith, and
+  Linderman]{williams2021generalized}
+Alex~H. Williams, Erin Kunz, Simon Kornblith, and Scott Linderman.
+\newblock Generalized shape metrics on neural representations.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~34, 2021.
+\newblock URL \url{https://arxiv.org/abs/2110.14739}.
+
+\bibitem[Yin et~al.(2024{\natexlab{a}})Yin, Gharbi, Park, Zhang, Shechtman,
+  Durand, and Freeman]{yin2024improved}
+Tianwei Yin, Micha{\"e}l Gharbi, Taesung Park, Richard Zhang, Eli Shechtman,
+  Fr{\'e}do Durand, and William~T. Freeman.
+\newblock Improved distribution matching distillation for fast image synthesis.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~37, 2024{\natexlab{a}}.
+\newblock \doi{10.52202/079017-1505}.
+\newblock URL \url{https://arxiv.org/abs/2405.14867}.
+
+\bibitem[Yin et~al.(2024{\natexlab{b}})Yin, Gharbi, Zhang, Shechtman, Durand,
+  Freeman, and Park]{yin2024onestep}
+Tianwei Yin, Micha{\"e}l Gharbi, Richard Zhang, Eli Shechtman, Fr{\'e}do
+  Durand, William~T. Freeman, and Taesung Park.
+\newblock One-step diffusion with distribution matching distillation.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition (CVPR)}, pages 6613--6623, 2024{\natexlab{b}}.
+\newblock \doi{10.1109/CVPR52733.2024.00632}.
+\newblock URL \url{https://arxiv.org/abs/2311.18828}.
+
+\bibitem[Yu and Wang(2024)]{yu2024neural}
+Runpeng Yu and Xinchao Wang.
+\newblock Neural lineage.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition (CVPR)}, 2024.
+
+\bibitem[Yule(1926)]{yule1926why}
+G.~Udny Yule.
+\newblock Why do we sometimes get nonsense-correlations between time-series? --
+  {A} study in sampling and the nature of time-series.
+\newblock \emph{Journal of the Royal Statistical Society}, 89\penalty0
+  (1):\penalty0 1--63, 1926.
+\newblock \doi{10.2307/2341482}.
+\newblock URL \url{https://doi.org/10.2307/2341482}.
+
+\bibitem[{Z-Image Team} et~al.(2025){Z-Image Team}, Cai, Cao, Du, Gao, Hao,
+  Hoi, Hou, Huang, Jiang, Jiang, Jin, Li, Li, Li, Liu, Liu, Wu, Yu, Zhan,
+  Zhang, Zhang, Zhou, and Zhou]{zimageteam2025zimage}
+{Z-Image Team}, Huanqia Cai, Sihan Cao, Ruoyi Du, Peng Gao, Aiming Hao, Steven
+  Hoi, Zhaohui Hou, Shijie Huang, Dengyang Jiang, Yuming Jiang, Xin Jin,
+  Liangchen Li, Zhen Li, Zhong-Yu Li, David Liu, Dongyang Liu, Qilong Wu, Feng
+  Yu, Zechao Zhan, Chi Zhang, Shifeng Zhang, Ruikai Zhou, and Shilin Zhou.
+\newblock {Z-Image}: An efficient image generation foundation model with
+  single-stream diffusion transformer, 2025.
+\newblock URL \url{https://arxiv.org/abs/2511.22699}.
+\newblock Technical report, Tongyi Lab, Alibaba.
+
+\bibitem[Zhang et~al.(2024)Zhang, Liu, Qian, Zhang, Liu, Qiao, and
+  Shao]{zhang2024reef}
+Jie Zhang, Dongrui Liu, Chen Qian, Linfeng Zhang, Yong Liu, Yu~Qiao, and Jing
+  Shao.
+\newblock {REEF}: Representation encoding fingerprints for large language
+  models.
+\newblock arXiv:2410.14273, 2024.
+
+\bibitem[Zhu et~al.(2025)Zhu, Ahmed, Kuditipudi, and
+  Liang]{zhu2025independence}
+Sally Zhu, Ahmed Ahmed, Rohith Kuditipudi, and Percy Liang.
+\newblock Independence tests for language models.
+\newblock arXiv:2502.12292, 2025.
+
+\end{thebibliography}

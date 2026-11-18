@@ -1,0 +1,18 @@
+channel,g_star,direction
+SD3.5 M attn,0.0178,pos→neg
+SD3.5 M attn,0.0196,neg→pos
+SD3.5 M attn,0.0765,pos→neg
+SD3.5 L attn,0.023,pos→neg
+SD3.5 L attn,0.0426,neg→pos
+SD3.5 L attn,0.0735,pos→neg
+ZIB attn,0.0591,pos→neg
+ZIB attn,0.0621,neg→pos
+ZIB attn,0.0794,pos→neg
+ZIB MLP,0.0136,pos→neg
+ZIB MLP,0.0176,neg→pos
+ZIB MLP,0.0188,pos→neg
+ZIT MLP,0.0086,pos→neg
+ZIT MLP,0.015,neg→pos
+ZIT MLP,0.022,pos→neg
+Mochi attn,0.0491,pos→neg
+ZIT attn,0.0562,pos→neg

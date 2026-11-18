@@ -1,0 +1,148 @@
+panel,channel,layer,parity,median,min,max,source,step,sigma,chi_logit,series,g,beta
+a,attn,0.0,even,0.09054407912941191,0.04613700853611321,0.11587019738523163,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,1.0,odd,0.02481609803813263,0.021822602495261266,0.03886747150778703,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,2.0,even,0.17079314532126577,0.14358384986715408,0.1843801372210601,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,3.0,odd,0.07001801398701682,0.06495279033585288,0.08710052655577945,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,4.0,even,0.1506511777040132,0.11496342074738433,0.1760492517841441,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,5.0,odd,0.06659977920341976,0.06168479664838703,0.07026819372802466,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,6.0,even,0.1699923036469877,0.15421732168202767,0.1763277474745336,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,7.0,odd,0.08670910019667931,0.0778242215383305,0.08895072400126217,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,8.0,even,0.14628918898396448,0.12407249509907303,0.16266946600806065,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,9.0,odd,0.08835009274555361,0.07467881925524666,0.09366449675127662,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,10.0,even,0.1923938840249009,0.16898425584899873,0.2079036954521216,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,11.0,odd,0.12287123258765592,0.10047364975553778,0.12880558932043032,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,12.0,even,0.14587477673654273,0.11527123177360435,0.17866831053754437,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,13.0,odd,0.11351131223732688,0.0976080756781085,0.13068976590517106,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,14.0,even,0.20551815999891643,0.18823976768619563,0.21744517100730987,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,15.0,odd,0.14663397730878885,0.1286763353397232,0.15507612777033417,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,16.0,even,0.21604902813838334,0.1980037732906425,0.2280959655206288,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,17.0,odd,0.15465238791605726,0.13957631020760114,0.1683752963728838,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,18.0,even,0.1889153529255616,0.17178187164791192,0.2076518500670325,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,19.0,odd,0.15682338841159396,0.1432467235051036,0.17163129742296443,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,20.0,even,0.2199502997055508,0.20543454466603628,0.2431720432290849,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,21.0,odd,0.16607337625255875,0.14844153426579088,0.1905683381118211,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,22.0,even,0.1893131087321706,0.17160531337529655,0.21757175995748695,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,attn,23.0,odd,0.08541123032854811,0.07369942053545567,0.08847634856691441,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+c,attn,,,,,,r3_ace/out/B_details.json B9,0.0,1.0,0.00055,,,
+c,attn,,,,,,r3_ace/out/B_details.json B9,1.0,0.937781,0.00079,,,
+c,attn,,,,,,r3_ace/out/B_details.json B9,2.0,0.857326,0.00127,,,
+c,attn,,,,,,r3_ace/out/B_details.json B9,3.0,0.75,0.00677,,,
+c,attn,,,,,,r3_ace/out/B_details.json B9,4.0,0.600719,0.01556,,,
+c,attn,,,,,,r3_ace/out/B_details.json B9,5.0,0.37556200000000006,0.00439,,,
+a,mlp,0.0,even,0.13022271930478094,0.09302289065116863,0.13991343656965163,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,1.0,odd,0.1499366163931453,0.11491611645547604,0.1606940121276659,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,2.0,even,0.2634169476505604,0.21814274274854878,0.2962554538417565,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,3.0,odd,0.27435256730177765,0.22939450164639247,0.2986639751832833,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,4.0,even,0.29772821633842184,0.2553139223239631,0.31359081118205695,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,5.0,odd,0.2936090785254233,0.2622956360550446,0.30365024730499474,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,6.0,even,0.30265652404610477,0.2665416959470364,0.31690877419196123,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,7.0,odd,0.31396524797152814,0.27623974204586477,0.3364860884656608,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,8.0,even,0.2918931319928916,0.24351716468272552,0.3272977294557033,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,9.0,odd,0.3155949141406497,0.2815304939056336,0.33302288129186924,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,10.0,even,0.3285289735605834,0.2889526039318048,0.35194459805517814,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,11.0,odd,0.31945521086341777,0.28654275007501295,0.3436543543338453,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,12.0,even,0.2872086745787076,0.2529926807322952,0.31797345388871356,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,13.0,odd,0.3002616609860444,0.26422245312826603,0.33012532684807944,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,14.0,even,0.32202296777911465,0.2784677075689811,0.3393703177568004,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,15.0,odd,0.3343447364347708,0.29078148113304714,0.3503489110253146,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,16.0,even,0.3311606912090014,0.29837015556734603,0.34251572003988423,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,17.0,odd,0.3591155289538927,0.32719379326503156,0.3815464246676364,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,18.0,even,0.3332550720767993,0.30645719071076305,0.353864086294442,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,19.0,odd,0.3339060057837624,0.31059398435102303,0.3782324592035273,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,20.0,even,0.3252962915276406,0.30521262145323275,0.36234021589524534,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,21.0,odd,0.30405100127095,0.27284649192348687,0.34499619720572217,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,22.0,even,0.2917312313881914,0.2459836504382808,0.3134342406384169,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+a,mlp,23.0,odd,0.05182351742959354,0.041915600176524286,0.07208507829188182,r3_ace/out/cache_*.npz; g_MP from B_details.json,,,,,,
+c,mlp,,,,,,r3_ace/out/B_details.json B9,0.0,1.0,0.00065,,,
+c,mlp,,,,,,r3_ace/out/B_details.json B9,1.0,0.937781,0.00063,,,
+c,mlp,,,,,,r3_ace/out/B_details.json B9,2.0,0.857326,0.00137,,,
+c,mlp,,,,,,r3_ace/out/B_details.json B9,3.0,0.75,0.00764,,,
+c,mlp,,,,,,r3_ace/out/B_details.json B9,4.0,0.600719,0.01791,,,
+c,mlp,,,,,,r3_ace/out/B_details.json B9,5.0,0.37556200000000006,0.00506,,,
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0065912931034482,0.0520147070312499
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0147778793103448,0.0784051619718309
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0229644655172413,0.0693182217973231
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0311510517241379,0.0555415168986083
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0393376379310344,0.0432920224
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.047524224137931,0.0412540425531915
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0557108103448275,0.0334111041666666
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0638973965517241,0.0297587899249732
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0720839827586207,0.0160768886486486
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0802705689655172,0.0143182917181705
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0884571551724138,0.0015230623342175
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.0966437413793103,-0.0058753817966903
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1048303275862069,-0.0109597046035805
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1130169137931034,-0.0183282680628272
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1212035,-0.0207863361188486
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1293900862068965,-0.0254602138188608
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1375766724137931,-0.0310278614583333
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1457632586206896,-0.0338616687979539
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1539498448275862,-0.0367141920236336
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1621364310344827,-0.0336723843283582
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1703230172413793,-0.0373627949260042
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1785096034482758,-0.0444166676829268
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1866961896551724,-0.0535591428571428
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.1948827758620689,-0.0514319951219512
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.2030693620689655,-0.0599978738738738
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.2112559482758621,-0.06201735
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.2194425344827586,-0.062012
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.2276291206896552,-0.0627791176470588
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE attn,0.2358157068965517,-0.044867
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.0102410517241379,0.0186393913043478
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.0235871551724137,0.0276962972972973
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.0369332586206896,0.0061711126760563
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.0502793620689655,0.0080644639999999
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.0636254655172413,0.0206978679245283
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.0769715689655172,0.0193092156862745
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.0903176724137931,0.0202095794223826
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.1036637758620689,0.018469367768595
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.1170098793103448,0.021063416481069
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.1303559827586206,0.0162994328922495
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.1437020862068965,0.0003531362068965
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.1570481896551724,-0.0021892948905109
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.1703942931034482,-0.006733040705563
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.1837403965517241,-0.0051368338907469
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.1970864999999999,-0.0030902140818268
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.2104326034482758,-0.0041955111876075
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.2237787068965517,-0.0069804
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.2371248103448275,-0.0066086800302571
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.2504709137931034,-0.0071030072098053
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.2638170172413793,-0.0085529412258606
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.2771631206896552,-0.0120316772591857
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.290509224137931,-0.0115894418282548
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.3038553275862069,-0.0126834185022026
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.3172014310344827,-0.0143757953367875
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.3305475344827586,-0.0145070950570342
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.3438936379310344,-0.0080817647058823
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.3572397413793103,-0.0033475714285714
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.3705858448275861,-0.0096954615384615
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,ACE mlp,0.3839319482758621,-0.015155875
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0126971724137931,0.0301766428571428
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0206695172413793,0.040539744680851
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0286418620689655,0.0476991333333333
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0366142068965517,0.0464963798449612
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0445865517241379,0.042157610619469
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0525588965517241,0.0436406774193548
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0605312413793103,0.0331634597156398
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0685035862068965,0.0319796266666666
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0764759310344827,0.0322144375
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0844482758620689,0.0228949905063291
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.0924206206896551,0.0133050513447432
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1003929655172413,0.0109027875288683
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1083653103448275,0.0044993229166666
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1163376551724137,0.0023920276872964
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.12431,-0.001786806402439
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1322823448275862,-0.0048190936507936
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1402546896551724,-0.0012681462585034
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1482270344827586,0.0001188996062992
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1561993793103448,-0.0048040404761904
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.164171724137931,-0.0029390867052023
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1721440689655172,-0.0026026188925081
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1801164137931034,-0.0084281351351351
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1880887586206896,-0.0152270867768595
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.1960611034482758,-0.0139606560509554
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.204033448275862,-0.021868956043956
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.2120057931034483,-0.0219620208333333
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.2199781379310345,-0.0206203488372093
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.2279504827586206,-0.0212766666666666
+b,,,,,,,r3_ace/out/beta_curves.csv,,,,"ACE attn, even layers only",0.2359228275862069,-0.0266236666666666

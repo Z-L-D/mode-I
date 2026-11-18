@@ -1,0 +1,122 @@
+panel,tier,pair,tangent_attn,tangent_mlp,null_p95_attn,null_p95_mlp,source,channel,c1,c2,c3,c4plus,other,sub,layer,logg_base,logg_turbo
+a,same weights,ZIT 8 vs 25 steps,0.943144390178308,0.967675055947168,,,round2/out/E10_tangent.csv,,,,,,,,,,
+a,same weights,"Z-Image Turbo, matched rerun (Z3 vs ZIT)",0.9898621691895754,0.9918384439854055,,,r12_tangents.csv,,,,,,,,,,
+a,same weights,Z-Image Base cond vs uncond,0.9962833620229664,0.9626005571930254,,,r12_tangents.csv,,,,,,,,,,
+a,same weights,ACE-Step Base GPU 0 vs 1,0.9921138570562402,0.9722745803879544,,,r14_tangents.csv,,,,,,,,,,
+a,same weights,ACE-Step Base cond vs uncond,0.9968873330462829,0.964239326945338,,,r14_tangents.csv,,,,,,,,,,
+a,same weights,"ACE-Step Turbo 8 vs 6 steps, two capture sessions (R16)",0.9178222544593784,0.821363671389416,,,r16_tangents.csv (R16-1),,,,,,,,,,
+a,same weights,ACE-Step Turbo 3 vs 8 steps (R16),0.9934428435984792,0.9060724079325956,,,r16_tangents.csv (R16-4),,,,,,,,,,
+a,same weights,ACE-Step Turbo 4 vs 8 steps (R16),0.9968062129839044,0.9515571075952852,,,r16_tangents.csv (R16-4),,,,,,,,,,
+a,same weights,ACE-Step Turbo 5 vs 8 steps (R16),0.9958863235480656,0.9571370035089688,,,r16_tangents.csv (R16-4),,,,,,,,,,
+a,same weights,ACE-Step Turbo 7 vs 8 steps (R16),0.9981871549236476,0.9851665086890964,,,r16_tangents.csv (R16-4),,,,,,,,,,
+a,same weights,ACE-Step Turbo 9 vs 8 steps (R16),0.998518886054755,0.9892044017748391,,,r16_tangents.csv (R16-4),,,,,,,,,,
+a,same weights,ACE-Step Turbo 10 vs 8 steps (R16),0.9978832647359546,0.9844356242989676,,,r16_tangents.csv (R16-4),,,,,,,,,,
+a,same weights,SD3.5 M recapture vs Round 11 (R17),0.9803609798764944,,,,r17_tangents.csv (R17-3),,,,,,,,,,
+a,same weights,PixArt-Sigma cond vs uncond (R17),0.9960152885121584,0.9984644516798188,,,r17_tangents.csv (R17-3),,,,,,,,,,
+a,same weights,Cosmos-Predict2 2B cond vs uncond (R17),0.9948586684550704,0.9932166804910412,,,r17_tangents.csv (R17-3),,,,,,,,,,
+a,same weights,SD3 Medium cond vs uncond (R17),0.9949601640799788,,,,r17_tangents.csv (R17-3),,,,,,,,,,
+a,same weights,SD3.5 Medium cond vs uncond (R17),0.9945821373406186,,,,r17_tangents.csv (R17-3),,,,,,,,,,
+a,lineage,Z-Image Base vs Turbo (Z1 vs ZIT),0.7066801572643697,0.7193902477347962,0.2922967427128244,0.1976957591942251,r12_tangents.csv (R12-1),,,,,,,,,,
+a,lineage,Z-Image Base vs matched Turbo (Z1 vs Z3),0.713383031578267,0.6967139757353403,0.2877737258305827,0.2125581194071706,r12_tangents.csv,,,,,,,,,,
+a,lineage,ACE-Step Base vs Turbo,0.8497466241577937,0.5718576678845185,0.3163109457778205,0.2419373797871271,r14_tangents.csv (R12-6),,,,,,,,,,
+a,lineage,ACE-Step Base vs Turbo at 8 steps (R16),0.7945263614806289,0.5936291119504515,0.3374155452988624,0.2286535166327843,r16_tangents.csv (R16-2),,,,,,,,,,
+a,lineage,"SD3 Medium vs SD3.5 Medium, same vendor, no distillation (R17)",0.9262964653119145,,0.2603930621357903,,r17_tangents.csv (R17-2),,,,,,,,,,
+a,unrelated,Z1 vs MOCHI,0.12099391397914104,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,Z1 vs SD35M,-0.051149000417731925,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,Z1 vs SD35L,-0.11081679139603812,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,ZIT vs MOCHI,0.21059286689853227,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,ZIT vs SD35M,-0.07192612222763255,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,ZIT vs SD35L,-0.020034725862022696,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,Z2 vs MOCHI,0.11890265315334082,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,Z2 vs SD35M,-0.031872418304109223,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,Z2 vs SD35L,-0.11754786185400051,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,Z3 vs MOCHI,0.2117561308469284,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,Z3 vs SD35M,-0.06651260714260313,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,Z3 vs SD35L,-0.04189193108776662,,,,r12_unrelated_attn.json,,,,,,,,,,
+a,unrelated,ACEB vs Z1,-0.016229035508551,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs Z3,0.1254201681130348,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs ZIT,0.1278764542656271,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs ZIB,0.1645672173160672,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs MOCHI,0.2748433729253701,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs SD35M,-0.1067761649580835,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs SD35L,0.022601960509941,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs Z1,0.0187508460591169,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs Z3,0.2069505303831285,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs ZIT,0.2095378954229614,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs ZIB,0.2473826426831135,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs MOCHI,0.2480190262516188,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs SD35M,-0.0837478169930959,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs SD35L,-0.0113610646650532,,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs Z1,,0.2004142457669273,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs Z3,,0.1514947005956838,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs ZIT,,0.1530244434068931,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACEB vs ZIB,,0.1319598079132791,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs Z1,,-0.0784969141725358,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs Z3,,-0.0314051915115778,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs ZIT,,-0.0338334711697963,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,ACET vs ZIB,,-0.0077517276983743,,,posthoc_ace_vs_image_tangents.csv (post hoc),,,,,,,,,,
+a,unrelated,"PixArt-Sigma vs Cosmos-Predict2 2B, 28 layers each (R17)",0.302802324214745,0.6869472496794956,0.2506321910774736,0.206028634645325,r17_tangents.csv (R17-1),,,,,,,,,,
+b,,,,,,,round6/out/A2_beta_layer_bootstrap.csv,SD3.5 M attn,0.0,0.0,1.0,0.0,0.0,,,,
+b,,,,,,,round6/out/A2_beta_layer_bootstrap.csv,SD3.5 L attn,0.0,0.0,1.0,0.0,0.0,,,,
+b,,,,,,,round6/out/A2_beta_layer_bootstrap.csv,Mochi attn,0.81,0.0,0.19,0.0,0.0,,,,
+b,,,,,,,r12_8_crossings.csv (R12-8),ZIT-25 attn,0.35,0.0,0.59,0.06,0.0,,,,
+b,,,,,,,r12_8_crossings.csv (R12-8),ZIT-25 MLP,0.31,0.0,0.69,0.0,0.0,,,,
+b,,,,,,,r12_8_crossings.csv (R12-8),ZIT attn,1.0,0.0,0.0,0.0,0.0,,,,
+b,,,,,,,r12_8_crossings.csv (R12-8),ZIT MLP,0.01,0.0,0.65,0.33999999999999997,0.0,,,,
+b,,,,,,,r12_8_crossings.csv (R12-8),ZIT matched attn,1.0,0.0,0.0,0.0,0.0,,,,
+b,,,,,,,r12_8_crossings.csv (R12-8),ZIT matched MLP,1.0,0.0,0.0,0.0,0.0,,,,
+b,,,,,,,r12_8_crossings.csv (R12-8),Z-Image Base attn,0.5,0.38,0.11,0.01,0.0,,,,
+b,,,,,,,r12_8_crossings.csv (R12-8),Z-Image Base MLP,1.0,0.0,0.0,0.0,0.0,,,,
+b,,,,,,,r3_ace/out/A2_bootstrap.csv,ACE-Step Turbo attn,1.0,0.0,0.0,0.0,0.0,,,,
+b,,,,,,,r3_ace/out/A2_bootstrap.csv,ACE-Step Turbo MLP,0.95,0.0,0.05,0.0,4.163336342344337e-17,,,,
+b,,,,,,,r16_details.json (R16-5),ACE-Step Turbo 8 st. attn,0.94,0.0,0.06,0.0,0.0,,,,
+b,,,,,,,r14_B6_boot.csv (R12-7),ACE-Step Base attn,1.0,0.0,0.0,0.0,0.0,,,,
+b,,,,,,,posthoc_aceb_crossings.csv (post hoc),ACE-Step Base MLP,0.0,1.0,0.0,0.0,0.0,,,,
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,0.0,-2.906335643442493,-2.829325872899396
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,1.0,-4.319678581883054,-4.041244052963454
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,2.0,-1.9428998048243435,-2.155017300047024
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,3.0,-3.010760004031663,-3.064848893708154
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,4.0,-2.019318466379203,-2.288745662364416
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,5.0,-3.1340137835402175,-3.159075524914119
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,6.0,-1.8492582297462248,-2.1154823615017513
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,7.0,-2.7328061538925645,-2.881959686123182
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,8.0,-1.9759862929724823,-2.3004065589109626
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,9.0,-2.874610307565238,-2.870684583213794
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,10.0,-1.7472289369717877,-1.9817716398084257
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,11.0,-2.7908667940957854,-2.5981666134468453
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,12.0,-1.9663069459103921,-2.3331728372040605
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,13.0,-3.3312708671942897,-2.7157415820917996
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,14.0,-1.9481378051410132,-1.9467490238370484
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,15.0,-3.564973412992502,-2.3783749607982525
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,16.0,-1.90579175372626,-1.950492015198794
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,17.0,-3.6433682098570905,-2.408836920587361
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,18.0,-2.2815569605250317,-2.0523996357909673
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,19.0,-3.69188339873349,-2.3579869390755523
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,20.0,-2.216935754073117,-1.9171932589194869
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,21.0,-4.119454748237085,-2.3063179166216607
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,22.0,-2.782940114362633,-2.09757789247408
+c,,,,,,,r14_details_A.json R14_2,,,,,,,attn,23.0,-4.040174261286912,-2.9015754146763926
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,0.0,-2.3606109822528794,-2.3943623441045445
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,1.0,-2.2233418018236977,-2.3681246245716743
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,2.0,-1.621203490918644,-1.7823468103710882
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,3.0,-1.5802060067366448,-1.7017435430812886
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,4.0,-1.556027397028705,-1.6047603790261158
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,5.0,-1.5302849931928437,-1.6134429865756221
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,6.0,-1.4790765612960304,-1.5563275377059893
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,7.0,-1.3809113765172907,-1.5289464875602319
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,8.0,-1.4615014132163233,-1.6113000250488894
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,9.0,-1.381047934551395,-1.5295008792548561
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,10.0,-1.3200811346343555,-1.4943442894516303
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,11.0,-1.3665590223226447,-1.5654315532058714
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,12.0,-1.4156170451452164,-1.6599177535140026
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,13.0,-1.5045557527902653,-1.600307949828924
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,14.0,-1.794342848106486,-1.5168867008699436
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,15.0,-1.5780622826750275,-1.4904875699644862
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,16.0,-1.6639052642104684,-1.5082205662602248
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,17.0,-1.6069511651376809,-1.4082816157529556
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,18.0,-1.7711537745549963,-1.4795476001905534
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,19.0,-2.050536559495965,-1.506976541294739
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,20.0,-2.5803288620438405,-1.5408836875343876
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,21.0,-2.5561255386199515,-1.6270760346714477
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,22.0,-2.728803441650836,-1.6836811709307449
+c,,,,,,,r14_details_A.json R14_2,,,,,,,mlp,23.0,-4.153989266373419,-3.391170645293494

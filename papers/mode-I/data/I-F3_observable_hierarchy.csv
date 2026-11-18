@@ -1,0 +1,62 @@
+panel,level,a,b,kind,value,source
+a,L0_D1,ZIT,ZIB,lineage,0.932515723029866,round6/out/S1_hierarchy.csv
+a,L0_D1,ZIT,MOCHI,unrelated,0.8217312192592217,round6/out/S1_hierarchy.csv
+a,L0_D1,ZIT,SD35M,unrelated,0.9263372470149346,round6/out/S1_hierarchy.csv
+a,L0_D1,ZIT,SD35L,unrelated,0.981499965136504,round6/out/S1_hierarchy.csv
+a,L0_D1,ZIB,MOCHI,unrelated,0.9405184267601564,round6/out/S1_hierarchy.csv
+a,L0_D1,ZIB,SD35M,unrelated,0.785041485451695,round6/out/S1_hierarchy.csv
+a,L0_D1,ZIB,SD35L,unrelated,0.9594283713577751,round6/out/S1_hierarchy.csv
+a,L0_D1,MOCHI,SD35M,unrelated,0.7334051022452699,round6/out/S1_hierarchy.csv
+a,L0_D1,MOCHI,SD35L,unrelated,0.8582398195914186,round6/out/S1_hierarchy.csv
+a,L0_D1,SD35M,SD35L,same family,0.9119594026114956,round6/out/S1_hierarchy.csv
+a,L0_D2,ZIT,ZIB,lineage,0.9731341786754188,round6/out/S1_hierarchy.csv
+a,L0_D2,ZIT,MOCHI,unrelated,0.8251214294672077,round6/out/S1_hierarchy.csv
+a,L0_D2,ZIT,SD35M,unrelated,0.918945985950304,round6/out/S1_hierarchy.csv
+a,L0_D2,ZIT,SD35L,unrelated,0.7783356074358901,round6/out/S1_hierarchy.csv
+a,L0_D2,ZIB,MOCHI,unrelated,0.8599560996082911,round6/out/S1_hierarchy.csv
+a,L0_D2,ZIB,SD35M,unrelated,0.8634968956456476,round6/out/S1_hierarchy.csv
+a,L0_D2,ZIB,SD35L,unrelated,0.7181451985567965,round6/out/S1_hierarchy.csv
+a,L0_D2,MOCHI,SD35M,unrelated,0.6275822743384225,round6/out/S1_hierarchy.csv
+a,L0_D2,MOCHI,SD35L,unrelated,0.9260519747275904,round6/out/S1_hierarchy.csv
+a,L0_D2,SD35M,SD35L,same family,0.3158850756976901,round6/out/S1_hierarchy.csv
+a,L1_field,ZIT,ZIB,lineage,0.9841537860206824,round6/out/S1_hierarchy.csv
+a,L1_field,ZIT,MOCHI,unrelated,0.7934327983997072,round6/out/S1_hierarchy.csv
+a,L1_field,ZIT,SD35M,unrelated,-0.0205595380070207,round6/out/S1_hierarchy.csv
+a,L1_field,ZIT,SD35L,unrelated,0.4818672660020059,round6/out/S1_hierarchy.csv
+a,L1_field,ZIB,MOCHI,unrelated,0.8532825921393488,round6/out/S1_hierarchy.csv
+a,L1_field,ZIB,SD35M,unrelated,0.0271523359689318,round6/out/S1_hierarchy.csv
+a,L1_field,ZIB,SD35L,unrelated,0.5670402695426178,round6/out/S1_hierarchy.csv
+a,L1_field,MOCHI,SD35M,unrelated,0.2478667747883265,round6/out/S1_hierarchy.csv
+a,L1_field,MOCHI,SD35L,unrelated,0.6059544716196923,round6/out/S1_hierarchy.csv
+a,L1_field,SD35M,SD35L,same family,0.3617624281966058,round6/out/S1_hierarchy.csv
+a,L2_shape,ZIT,ZIB,lineage,0.9806425014893682,round6/out/S1_hierarchy.csv
+a,L2_shape,ZIT,MOCHI,unrelated,0.7929481154768692,round6/out/S1_hierarchy.csv
+a,L2_shape,ZIT,SD35M,unrelated,-0.0600646579601187,round6/out/S1_hierarchy.csv
+a,L2_shape,ZIT,SD35L,unrelated,0.4559731536165636,round6/out/S1_hierarchy.csv
+a,L2_shape,ZIB,MOCHI,unrelated,0.8285144073523099,round6/out/S1_hierarchy.csv
+a,L2_shape,ZIB,SD35M,unrelated,-0.0341807292852951,round6/out/S1_hierarchy.csv
+a,L2_shape,ZIB,SD35L,unrelated,0.4789526268001761,round6/out/S1_hierarchy.csv
+a,L2_shape,MOCHI,SD35M,unrelated,0.1390755881990827,round6/out/S1_hierarchy.csv
+a,L2_shape,MOCHI,SD35L,unrelated,0.539473269945406,round6/out/S1_hierarchy.csv
+a,L2_shape,SD35M,SD35L,same family,0.3182012083356723,round6/out/S1_hierarchy.csv
+a,L3_tangent,ZIT,ZIB,lineage,0.942255077104264,round6/out/S1_hierarchy.csv
+a,L3_tangent,ZIT,MOCHI,unrelated,0.2105928668985322,round6/out/S1_hierarchy.csv
+a,L3_tangent,ZIT,SD35M,unrelated,-0.0719261222276325,round6/out/S1_hierarchy.csv
+a,L3_tangent,ZIT,SD35L,unrelated,-0.0200347258620226,round6/out/S1_hierarchy.csv
+a,L3_tangent,ZIB,MOCHI,unrelated,0.239561379603265,round6/out/S1_hierarchy.csv
+a,L3_tangent,ZIB,SD35M,unrelated,-0.0097265739583491,round6/out/S1_hierarchy.csv
+a,L3_tangent,ZIB,SD35L,unrelated,-0.0243830799741066,round6/out/S1_hierarchy.csv
+a,L3_tangent,MOCHI,SD35M,unrelated,0.15222012467694,round6/out/S1_hierarchy.csv
+a,L3_tangent,MOCHI,SD35L,unrelated,0.1592981968196063,round6/out/S1_hierarchy.csv
+a,L3_tangent,SD35M,SD35L,same family,-0.2519453503917949,round6/out/S1_hierarchy.csv
+b,L3_tangent,ZIT,Archive (ZIT-25 pooled),lineage attn,0.943144390178308,round2/out/E10_tangent.csv
+b,L3_tangent,ZIT,Archive (ZIT-25 pooled),lineage mlp,0.967675055947168,round2/out/E10_tangent.csv
+b,L3_tangent,ZIT,CFG 4 uncond,lineage attn,0.9807919513046233,round5/out/Q_results.json Q2b
+b,L3_tangent,ZIT,CFG 4 uncond,lineage mlp,0.9892329215780112,round5/out/Q_results.json Q2b
+b,L3_tangent,ZIT,CFG 4 branch mean,lineage attn,0.9879109777724373,round5/out/Q_results.json Q2_ref
+b,L3_tangent,ZIT,CFG 4 branch mean,lineage mlp,0.9914294309639502,round5/out/Q_results.json Q2_ref
+b,L3_tangent,ZIT,CFG 4 cond,lineage attn,0.9917789256208934,round5/out/Q_results.json Q2a
+b,L3_tangent,ZIT,CFG 4 cond,lineage mlp,0.9922718527663642,round5/out/Q_results.json Q2a
+b,L3_tangent,ZIT,CFG 1 cond,lineage attn,0.99894196319303,round5/out/Q_results.json Q2_ref
+b,L3_tangent,ZIT,CFG 1 cond,lineage mlp,0.9994216157440432,round5/out/Q_results.json Q2_ref
+b,L3_tangent,best unrelated,ZIT-25–Mochi (attn),unrelated max,0.239561379603265,round6/out/S1_hierarchy.csv
